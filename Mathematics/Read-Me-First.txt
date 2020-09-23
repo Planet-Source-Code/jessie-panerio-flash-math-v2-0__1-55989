@@ -1,0 +1,15 @@
+Thanks for downloading Mathematics
+
+To test this project, extract the file Mathematics.zip. All files will be on a single folder named Mathematics. 
+
+Then, find the file "Mathematics.vbp".
+
+Note: You can also click the executable file named: Mathematics.exe 
+
+For comments and suggestions, e-mail me at: JESSIE_VEDDER@Yahoo.com
+
+Thank you!
+
+
+
+
